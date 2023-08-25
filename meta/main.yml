@@ -1,0 +1,14 @@
+# file: ansible-role-zmq/meta/main.yml
+
+galaxy_info:
+  author: vl
+  company: vl
+  description: Install zmq
+  min_ansible_version: 3.4.0
+  license: MIT
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+#  categories:
+#  - system
